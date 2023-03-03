@@ -264,7 +264,7 @@ h6 {font-size: 16px;}
     width: 100%;
     height: 180px;
     border-radius: 4px 4px 0 0 ;
-    object-fit: cover;
+    object-fit: fill;
 }
 .post-preview {
     background-color: #ffff;
